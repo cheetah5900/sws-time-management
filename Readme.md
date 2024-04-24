@@ -1,7 +1,11 @@
 # Time management project for Srisomwong Company
 
 ## Background
-I am in Information Officer position of Srisomwong Company. I need to create time management for company to manage working time and keep statistic of every employee.
+
+### What is it for ?
+This project was created to check employees' attendant at Srisomwong Telesale company. It can check attendant in the morning, afternoon and evening. Another plus point would be creating a report in a few second, resulting in a decrease in the number of spending time on my job. I did the entire system myself.
+### Why do this ?
+I was responsible to check employees' attendant and creating monthly report to my manager.
 
 ## Requirement.
 - PHP version 7.4 or more.
